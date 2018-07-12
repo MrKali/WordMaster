@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="Untitled.png" width="350" title="hover text">
-</p>
+![untitled](https://user-images.githubusercontent.com/34898452/42638013-782f9faa-85e4-11e8-95fe-53a050cdb5b0.png)
 
 
-USAGE
+#USAGE
 
 Wordmaster aims to create a list of words from the first word list. Example: Do you want to create a list of words for a victim?
 
@@ -13,13 +11,13 @@ Wordmaster aims to create a list of words from the first word list. Example: Do 
 
 3. Click enter and you're done. Your word list was created where you decided.
 
-EXAMPLES
+#EXAMPLES
 
 You can see in the project/tests some examples of wordmaster work.
 
 1. Example of list of words for physical person
 
-INSTALLATION
+#INSTALLATION
 
 To install wordmaster on your linux x64
 
