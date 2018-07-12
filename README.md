@@ -1,4 +1,4 @@
-#Usage
+Usage
 Wordmaster aims to create a list of words from the first word list. Example: Do you want to create a list of words for a victim?
 
 1. Write a first list of words with details of the victim (name, surname, animal's name, date of birth, favorite character, girlfriend / boyfriend, location).
@@ -7,12 +7,12 @@ Wordmaster aims to create a list of words from the first word list. Example: Do 
 
 3. Click enter and you're done. Your word list was created where you decided.
 
-#Examples
+Examples
 You can see in the project/tests some examples of wordmaster work.
 
 1. Example of list of words for physical person
 
-#Installation
+Installation
 
 To install wordmaster on your linux x64
 
