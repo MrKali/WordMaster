@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Untitled.png" width="350" title="hover text">
+</p>
+
+
 USAGE
 
 Wordmaster aims to create a list of words from the first word list. Example: Do you want to create a list of words for a victim?
@@ -22,3 +27,5 @@ To install wordmaster on your linux x64
 2. sudo cp wordmaster /bin/
 
 Now you can use wordmaster from anyone terminal 
+
+
