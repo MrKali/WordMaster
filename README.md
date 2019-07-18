@@ -1,5 +1,4 @@
-![untitled](https://user-images.githubusercontent.com/34898452/42638013-782f9faa-85e4-11e8-95fe-53a050cdb5b0.png)
-
+# WordMaster
 
 #USAGE
 
@@ -25,5 +24,8 @@ To install wordmaster on your linux x64
 2. sudo cp wordmaster /bin/
 
 Now you can use wordmaster from anyone terminal 
+
+![untitled](https://user-images.githubusercontent.com/34898452/42638013-782f9faa-85e4-11e8-95fe-53a050cdb5b0.png)
+
 
 
